@@ -9,9 +9,14 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>design-step-20.0-0</module>
-        <module>design-step-20.0-1</module>
-        <module>design-step-20.0-2</module>
+
+
+        <module>design-04-factory-0</module>
+        <module>design-04-factory-1</module>
+        <module>design-04-factory-2</module>
+        <module>design-05-abstractFactory-0</module>
+        <module>design-05-abstractFactory-1</module>
+        <module>design-05-abstractFactory-2</module>
     </modules>
 
     <properties>
